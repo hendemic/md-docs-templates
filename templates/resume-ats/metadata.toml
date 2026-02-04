@@ -1,0 +1,4 @@
+name = "Resume (ATS)"
+description = "Single-column ATS-friendly resume layout"
+default_brand = "generic"
+ignore = ["date_separator", "column_break"]
