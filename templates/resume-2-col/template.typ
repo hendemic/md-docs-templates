@@ -74,7 +74,7 @@
 
 // Fixed gap between header and columns (max spacing).
 // Extra vertical space is pushed below the columns.
-#v(5em)
+#v(4em)
 
 // Parse column ratio from metadata, default to equal widths
 #let col-sizes = if "columns" in metadata and metadata.columns != none {
