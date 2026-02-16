@@ -1,0 +1,4 @@
+name = "Letter"
+description = "Formal letter layout for correspondence with representatives, officials, etc."
+default_brand = "generic"
+starter_file = "letter.md"

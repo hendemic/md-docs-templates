@@ -1,0 +1,4 @@
+name = "Essay"
+description = "Simple essay layout with date, centered title, author, and body"
+default_brand = "generic"
+starter_file = "essay.md"
