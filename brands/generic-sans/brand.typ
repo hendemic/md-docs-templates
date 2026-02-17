@@ -5,4 +5,4 @@
 #let body-font = "Inter 28pt"
 #let heading-font = "Inter 28pt"
 #let mono-font = "IBM Plex Mono"
-#let body-size = 10pt
+#let body-size = 9pt
