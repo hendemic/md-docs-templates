@@ -5,3 +5,4 @@
 #let body-font = "EB Garamond"
 #let heading-font = "EB Garamond"
 #let mono-font = "IBM Plex Mono"
+#let body-size = 10pt

@@ -11,7 +11,7 @@
 // Base text
 #set text(
   font: body-font,
-  size: 9pt,
+  size: body-size,
   fill: brand-text-dark,
 )
 
